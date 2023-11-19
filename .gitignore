@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+errors.txt
+/src/main/java/com/example/first/secondFolder/
