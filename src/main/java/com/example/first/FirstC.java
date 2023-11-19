@@ -7,6 +7,8 @@ public class FirstC {
 
         String newString = "HI";
 
+        String secondString = "Bye";
+
 
     }
 }
